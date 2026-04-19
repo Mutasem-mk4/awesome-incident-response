@@ -149,6 +149,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Linux Evidence Collection
 
 * [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artifacts on live Linux and records the results in CSV files.
+* [gspy](https://github.com/Mutasem-mk4/gspy) - Forensic goroutine-to-syscall inspector for live Go processes using eBPF, reading IDs via process_vm_readv (zero footprint).
 * [MAGNET DumpIt](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
 
 ### Log Analysis Tools
